@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:myapp/features/authentification/presentation/pages/onboarding.dart';
-import 'package:get/get.dart';
-import 'package:myapp/features/authentification/presentation/pages/onboarding.dart';
+//import 'package:get/get.dart';
 //import 'package:myapp/home_page.dart';
 
 void main() {
